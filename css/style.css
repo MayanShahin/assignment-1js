@@ -1,0 +1,17 @@
+body{
+    background-image: linear-gradient(to right,  purple, pink);
+}
+h2{
+    font-size: 5rem;
+    font-weight: 900;
+}
+p{
+    font-size: 2rem;
+}
+.btn{
+    background-color: pink;
+}
+input{
+    background-color: pink;
+    border: none;
+}
